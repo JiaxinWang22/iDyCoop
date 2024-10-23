@@ -1,5 +1,5 @@
 **This project contains data and code for paper: <br/> <br/>
-Wang J.#, Meng F.#, Xu C.#, Zhang Y., Liang K., ..., Ma Y. Simultaneous intracranial recordings of interacting brains reveal neurocognitive dynamics of human cooperation. (2024)** <br/> <br/>
+Wang J.#, Meng F.#, Xu C.#, Zhang Y., Liang K., ..., Ma Y. Simultaneous intracranial recordings of interacting brains reveal neurocognitive dynamics of human cooperation. (2024)** <br/>
 ___
 This repository contains:
 ```
