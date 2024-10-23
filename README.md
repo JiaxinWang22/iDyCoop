@@ -1,6 +1,5 @@
 **This project contains data and code for paper: <br/> <br/>
 Wang J.#, Meng F.#, Xu C.#, Zhang Y., Liang K., ..., Ma Y. Simultaneous intracranial recordings of interacting brains reveal neurocognitive dynamics of human cooperation. (2024)** <br/> <br/>
-Same as the OSF repository [here](https://osf.io/cjv9k/).
 ___
 This repository contains:
 ```
@@ -27,6 +26,7 @@ ___
 * **power_corr_sw.m** calculates correlation using a sliding window method
 
 ## Source Data
+Source data can be downloaded at the OSF repository [here](https://osf.io/cjv9k/) due to large file size.
 
 **Note1**: Data are organized in tables or structures for each figure in the paper. For structural data, the "dim" field contains the description of high-dimensional data arrays. 
 
