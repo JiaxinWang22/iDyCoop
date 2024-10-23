@@ -1,13 +1,6 @@
 **This project contains data and code for paper: <br/> <br/>
 Wang J.#, Meng F.#, Xu C.#, Zhang Y., Liang K., ..., Ma Y. Simultaneous intracranial recordings of interacting brains reveal neurocognitive dynamics of human cooperation. (2024)** <br/>
 ___
-This repository contains:
-```
-root
-  ├─ code              # Matlab code to conduct the main analyses
-  ├─ source_data       # behavioral & neural data for each figure
-```
-___
 ## Main Code
 ### 1. Behavioral code
 * **cal_state_timewd.m**: extracts time periods for initiation and maintenance states/epochs
