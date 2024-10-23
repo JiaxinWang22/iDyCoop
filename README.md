@@ -26,4 +26,6 @@ Source data can be downloaded at the OSF repository [here](https://osf.io/cjv9k/
 **Note2**: For correlation coefficients, please first remove outliers and employ Fisher-z transformation before statistical tests.
 
 ___
+**Lisence: CC-By Attribution 4.0 International**
+
 Please contact the corresponding author (yma@bnu.edu.cn) for data and code used in the paper.
